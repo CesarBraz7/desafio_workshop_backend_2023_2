@@ -37,3 +37,6 @@ python manage.py runserver
 - Na path `jogadores/`, podemos escolher o time e o nome pré-cadastrados, e também podemos dizer a quantidade de gols que ele fez. Nos será retornado o ID do cadastro, o time do jogador, a quantidade de gols e o ID do jogador cadastrado.
 
 - Da mesma forma, acessando `jogadores/{id-do-cadastro}`, pode ser feito a edição e a remoção do seu time,  a quantidade de gols, e o jogador cadastrado.
+
+## Atenção
+Desafio está na branch v1
